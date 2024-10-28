@@ -44,7 +44,7 @@ Latihan 2 - Siti Aisyah Nor Fitriani (2210010043)
 4. Jalankan **PenghitungUmurFrame** untuk memulai aplikasi.
 
 ## Demo
-
+![Ddemo GIF](img/gifAplikasiPenghitungUmur.gif)
 
 ---
 
