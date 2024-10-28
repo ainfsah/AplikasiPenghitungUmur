@@ -1,2 +1,2 @@
 # AplikasiPenghitungUmur
-Latihan 2 - Siti Aisyah Nor fitrianin (2210010043)
+Latihan 2 - Siti Aisyah Nor Fitriani (2210010043)
